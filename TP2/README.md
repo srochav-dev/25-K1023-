@@ -18,7 +18,7 @@ Procesamiento en un solo paso: Como pide el punto 2, las estructuras se van arma
 Lógica de Monto y Resultado: El monto se calcula con el valor absoluto de las cantidades, pero el resultado final mantiene el signo (positivo para venta, negativo para compra).
 Ordenamiento Dinámico: Usé funciones de comparación para que las bolsas aparezcan por nombre de la A a la Z antes de mostrar el listado.
 
-Cómo lo corrí yo:
+Cómo lo corrí yo para probarlo en la compu usé:
 g++ main.cpp -o tp2.exe
 .\tp2.exe
 
