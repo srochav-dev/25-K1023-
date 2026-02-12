@@ -1,4 +1,4 @@
-Trabajo Práctico 1 – Algoritmos y Estructuras de Datos
+Trabajo Práctico 2 – Algoritmos y Estructuras de Datos
 
 Carrera Ingeniería en Sistemas de Información – UTN FRBA
 
